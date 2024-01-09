@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topo {
+  display: flex;
+}
+
+.topo ul {
+  list-style: none;
+  display: flex;
+}
+
+.topo ul li {
+  margin-left: 10px;
+}
